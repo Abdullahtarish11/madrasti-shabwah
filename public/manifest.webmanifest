@@ -1,0 +1,13 @@
+{
+  "name": "مدرستي شبوة",
+  "short_name": "مدرستي",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f8f3",
+  "theme_color": "#176b4a",
+  "description": "منصة تعليمية مجتمعية لمحافظة شبوة تعمل مع المحتوى المحفوظ دون اتصال.",
+  "icons": [{"src":"./favicon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
